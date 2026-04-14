@@ -1,5 +1,5 @@
-# 履歷
-應徵使用
+# 作品集
+以下內容為應徵使用請勿作為其他用途使用
 # Hi HR, I'm Workhardog
 
 **[Development Engineer(Self-proclaimed)Entry-level software engineer]**
