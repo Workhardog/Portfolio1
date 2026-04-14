@@ -23,7 +23,7 @@ Demo：https://drive.google.com/file/d/1JWoGRXThVt-ssfDPqVtzIAdiKT9aBMh8/view?us
 
 簡介： 一款基於 Meta Quest 3 XR 功能，以 YOLO 為主要能即時辨識現實世界物體且能達到教育目的的應用程式。
 
-技術棧： Unity, C#, Meta XR Core SDK, Unity Sentis, YOLO
+技術使用： Unity, C#, Meta XR Core SDK, Unity Sentis, YOLO
 
 技術亮點 / 我的貢獻：
 
