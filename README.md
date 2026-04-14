@@ -6,14 +6,13 @@
 
 我具備扎實的C#基礎。雖然目前在業界的實戰經驗還在累積，但我有一套系統化的學習與解題方法，能快速將新技術應用在專案上。目前正在尋找全端的工作機會。
 
-Tech Stack & Tools
-Languages:C#
+具備能力：
 
-Engines & Frameworks:Unity, C#, Meta XR Core SDK, Unity Sentis, YOLO
+Languages:C#, C++, Java, Python, SQL
 
-AI & Computer Vision:Gemini, Cursor, Qualcomm Snapdragon XR2 Gen 2
+AI:Gemini, Cursor
 
-DevOps & Tools:Unity, visual studio code, Android Packag
+Tools:Unity, visual studio code, Android Packag
 
 ###My Projects
 1. [Classroom Object Recognition XR]
@@ -23,7 +22,13 @@ Demo：https://drive.google.com/file/d/1JWoGRXThVt-ssfDPqVtzIAdiKT9aBMh8/view?us
 
 簡介： 一款基於 Meta Quest 3 XR 功能，以 YOLO 為主要能即時辨識現實世界物體且能達到教育目的的應用程式。
 
-技術使用： Unity, C#, Meta XR Core SDK, Unity Sentis, YOLO
+Languages:C#
+
+Engines & Frameworks:Unity, C#, Meta XR Core SDK, Unity Sentis, YOLO
+
+AI & Computer Vision:Gemini, Cursor, Qualcomm Snapdragon XR2 Gen 2
+
+DevOps & Tools:Unity, visual studio code, Android Packag
 
 技術亮點 / 我的貢獻：
 
