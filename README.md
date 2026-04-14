@@ -16,7 +16,7 @@ AI & Computer Vision:Gemini, Cursor, Qualcomm Snapdragon XR2 Gen 2
 DevOps & Tools:Unity, visual studio code, Android Packag
 
 ###My Projects
-1. [Classroom Object Recognition XR]https://github.com/Workhardog/- | https://drive.google.com/file/d/1JWoGRXThVt-ssfDPqVtzIAdiKT9aBMh8/view?usp=sharing
+1. [Classroom Object Recognition XR]https://github.com/Workhardog/Portfolio1  https://drive.google.com/file/d/1JWoGRXThVt-ssfDPqVtzIAdiKT9aBMh8/view?usp=sharing
 簡介： 一款基於 Meta Quest 3 XR 功能，以 YOLO 為主要能即時辨識現實世界物體且能達到教育目的的應用程式。
 
 技術棧： Unity, C#, Meta XR Core SDK, Unity Sentis, YOLO
