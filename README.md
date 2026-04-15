@@ -37,7 +37,7 @@ AI:ChatGPT, Claude, Gemini, Cursor
 
 CPU:Qualcomm Snapdragon XR2 Gen 2
 
-DevOps & Tools:Unity, visual studio code, Android Packag
+Tools:Unity, visual studio code, Android Packag
 
 使用 Meta 和 Unity 中的官方範例中的功能進行測試。
 
