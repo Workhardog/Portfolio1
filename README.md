@@ -50,3 +50,8 @@ Tools:Unity, visual studio code, Android Packag
 實作 NMS (非極大值抑制) 演算法與 IoU 計算，大幅提高多重物件重疊時的辨識精準度。
 
 在顯示部分提供英文、中文、注音對照以達到教育目的。
+
+釋例圖片:
+<img src="https://github.com/Workhardog/Portfolio1/blob/main/image.png" width="1000" alt="專題實作截圖第一張">
+
+<img src="https://github.com/Workhardog/Portfolio1/blob/main/image2.png" width="1000" alt="專題實作截圖第二張">
