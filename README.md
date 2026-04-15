@@ -17,7 +17,7 @@ Tools:Unity, visual studio code, Android Packag
 ###My Projects
 1. *[教室物件識別XR]*
 
-簡介： 一款基於 Meta Quest 3 XR 功能，以 YOLO 為主要能即時辨識現實世界物體且能達到教育目的的應用程式。
+簡介： 一款基於 Meta Quest 3 XR 功能，以 YOLO 模型即時辨識現實物體，且能達到教育目的的應用程式。
 
 作品位置：
 
@@ -33,7 +33,7 @@ Languages:C#
 
 Engines & Frameworks:Unity, C#, Meta XR Core SDK, Unity Sentis, YOLO
 
-AI & CPU:Gemini, Cursor, Qualcomm Snapdragon XR2 Gen 2
+AI & CPU:ChatGPT, Claude, Gemini, Cursor, Qualcomm Snapdragon XR2 Gen 2
 
 DevOps & Tools:Unity, visual studio code, Android Packag
 
