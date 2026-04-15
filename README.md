@@ -52,6 +52,6 @@ Tools:Unity, visual studio code, Android Packag
 在顯示部分提供英文、中文、注音對照以達到教育目的。
 
 成果圖片:
-<img src="https://github.com/Workhardog/Portfolio1/blob/main/image.png" width="1000" alt="專題實作截圖第一張">
+<img src="https://github.com/Workhardog/Portfolio1/blob/main/成果圖1.png" width="1000" alt="專題實作截圖第一張">
 
-<img src="https://github.com/Workhardog/Portfolio1/blob/main/image2.png" width="1000" alt="專題實作截圖第二張">
+<img src="https://github.com/Workhardog/Portfolio1/blob/main/成果圖2.png" width="1000" alt="專題實作截圖第二張">
