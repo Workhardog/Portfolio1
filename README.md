@@ -27,7 +27,7 @@ AI & Computer Vision:Gemini, Cursor, Qualcomm Snapdragon XR2 Gen 2
 
 DevOps & Tools:Unity, visual studio code, Android Packag
 
-技術亮點 / 我的貢獻：
+使用技術 / 我的貢獻：
 
 使用 Meta 和 Unity 中的官方範例中的功能進行測試。
 
