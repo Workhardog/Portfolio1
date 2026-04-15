@@ -10,7 +10,7 @@
 
 Languages:C#, C++, Java, Python, SQL
 
-AI:Gemini, Cursor
+AI:ChatGPT, Claude, Gemini, Cursor
 
 Tools:Unity, visual studio code, Android Packag
 
