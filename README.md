@@ -19,6 +19,15 @@ Tools:Unity, visual studio code, Android Packag
 
 簡介： 一款基於 Meta Quest 3 XR 功能，以 YOLO 為主要能即時辨識現實世界物體且能達到教育目的的應用程式。
 
+作品位置：
+
+[主壓縮檔案rar](https://github.com/Workhardog/Portfolio1/blob/main/testchange3.part1.exe)
+
+[第二壓縮部分檔案](https://github.com/Workhardog/Portfolio1/blob/main/testchange3.part2.rar)
+
+[第三壓縮部分檔案](https://github.com/Workhardog/Portfolio1/blob/main/testchange3.part3.rar)
+
+
 Languages:C#
 
 Engines & Frameworks:Unity, C#, Meta XR Core SDK, Unity Sentis, YOLO
