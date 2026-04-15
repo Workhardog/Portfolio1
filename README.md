@@ -2,7 +2,7 @@
 以下內容為應徵使用請勿作為其他用途使用
 # 您好, 我是 Workhardog
 
-**[Development Engineer(Self-proclaimed)Entry-level software engineer]**
+**[Entry-level software engineer]**
 
 我具備扎實的C#基礎。雖然目前在業界的實戰經驗還在累積，但我有一套系統化的學習與解題方法，能快速將新技術應用在專案上。目前正在尋找全端的工作機會。
 
