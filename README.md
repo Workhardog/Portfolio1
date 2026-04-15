@@ -23,7 +23,7 @@ Languages:C#
 
 Engines & Frameworks:Unity, C#, Meta XR Core SDK, Unity Sentis, YOLO
 
-AI & Computer Vision:Gemini, Cursor, Qualcomm Snapdragon XR2 Gen 2
+AI & CPU:Gemini, Cursor, Qualcomm Snapdragon XR2 Gen 2
 
 DevOps & Tools:Unity, visual studio code, Android Packag
 
