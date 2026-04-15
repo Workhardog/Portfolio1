@@ -17,9 +17,6 @@ Tools:Unity, visual studio code, Android Packag
 ###My Projects
 1. [Classroom Object Recognition XR]
 
-作品集位置：https://github.com/Workhardog/Portfolio1  
-Demo：https://drive.google.com/file/d/1JWoGRXThVt-ssfDPqVtzIAdiKT9aBMh8/view?usp=sharing
-
 簡介： 一款基於 Meta Quest 3 XR 功能，以 YOLO 為主要能即時辨識現實世界物體且能達到教育目的的應用程式。
 
 Languages:C#
@@ -44,6 +41,3 @@ DevOps & Tools:Unity, visual studio code, Android Packag
 
 在顯示部分提供英文、中文、注音對照以達到教育目的。
 
-### How to reach me
-
-* **Email:** leeworkdog@gmail.com
