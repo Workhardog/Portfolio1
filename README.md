@@ -35,7 +35,7 @@ Engines & Frameworks:Unity, C#, Meta XR Core SDK, Unity Sentis, YOLO
 
 AI:ChatGPT, Claude, Gemini, Cursor
 
-CPU：Qualcomm Snapdragon XR2 Gen 2
+CPU:Qualcomm Snapdragon XR2 Gen 2
 
 DevOps & Tools:Unity, visual studio code, Android Packag
 
