@@ -1,6 +1,6 @@
 # 作品集
 以下內容為應徵使用請勿作為其他用途使用
-# 您好, 我是 Workhardog
+# 您好,
 
 **[Entry-level software engineer]**
 
