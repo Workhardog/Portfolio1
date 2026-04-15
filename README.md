@@ -27,6 +27,7 @@ Tools:Unity, visual studio code, Android Packag
 
 [第三壓縮部分檔案](https://github.com/Workhardog/Portfolio1/blob/main/testchange3.part3.rar)
 
+使用技術 / 我的貢獻：
 
 Languages:C#
 
@@ -35,8 +36,6 @@ Engines & Frameworks:Unity, C#, Meta XR Core SDK, Unity Sentis, YOLO
 AI & CPU:Gemini, Cursor, Qualcomm Snapdragon XR2 Gen 2
 
 DevOps & Tools:Unity, visual studio code, Android Packag
-
-使用技術 / 我的貢獻：
 
 使用 Meta 和 Unity 中的官方範例中的功能進行測試。
 
